@@ -5,7 +5,7 @@ from docxtpl import DocxTemplate
 from typing import Final
 import os
 
-TOKEN: Final = "7277987652:AAFlNb7tQlozx2KC0pUrysXBqVylLA8rZRw"
+TOKEN: Final = ""
 BOT_USERNAME: Final = "@IAraport_bot"
 
 raport_data = {
